@@ -13,7 +13,7 @@ To compile the pass:
 
 To execute the pass:
 
-   - execute the script deadcode_elimination_with_RA.sh
+   - execute the script dead_code_elimination_with_RA.sh
    - you must change the command line flags, CLANG, OPT and RANGE_LIB according with your path llvm configuration 
    
 *if you are running on Mac OS, the extension of the shared library will be .dylib instead .so
