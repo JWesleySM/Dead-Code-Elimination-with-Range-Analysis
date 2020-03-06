@@ -1,3 +1,7 @@
+//Author: José Wesley de Souza Magalhães
+
+//This pass produces performs dead code elimination relying on the range of variables
+
 #include "llvm/Pass.h"
 #include "llvm/IR/Function.h"
 #include "llvm/IR/User.h"
